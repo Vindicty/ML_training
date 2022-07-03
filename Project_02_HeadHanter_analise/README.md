@@ -1,1 +1,2 @@
-# ML_training
+датасет с вакансиями: https://drive.google.com/file/d/1WmHIMvcCMpnWHIaZmq7lhAi--TCU3-fF/view?usp=sharing
+датасет с курсом валют: https://drive.google.com/file/d/1mbIauFadGSk0drghpl6hdII5-oT54fC_/view?usp=sharing
